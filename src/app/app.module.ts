@@ -28,7 +28,7 @@ import { BoardUserComponent } from './components/board-user/board-user.component
     BrowserModule,
     ReactiveFormsModule,
     HttpClientModule,
-    FormsModule
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
